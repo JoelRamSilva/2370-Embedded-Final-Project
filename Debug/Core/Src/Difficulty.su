@@ -1,3 +1,0 @@
-../Core/Src/Difficulty.c:13:6:SetDifficulty	16	static
-../Core/Src/Difficulty.c:19:17:GetDifficulty	4	static
-../Core/Src/Difficulty.c:23:5:GetMaxSatchels	4	static

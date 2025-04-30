@@ -1,6 +1,0 @@
-../Core/Src/Shield.c:21:6:StartShieldTask	1
-../Core/Src/Shield.c:30:6:ActivateShield	4
-../Core/Src/Shield.c:49:6:DeactivateShield	2
-../Core/Src/Shield.c:61:6:Shield_TakeHit	6
-../Core/Src/Shield.c:95:9:GetShieldHealth	1
-../Core/Src/Shield.c:99:6:Shield_Update	7

@@ -1,4 +1,0 @@
-../Core/Src/Capacitor.c:14:6:Capacitor_Consume	16	static
-../Core/Src/Capacitor.c:23:6:Capacitor_Set	16	static
-../Core/Src/Capacitor.c:27:6:Capacitor_Update	16	static
-../Core/Src/Capacitor.c:45:6:Capacitor_DrawBar	40	static

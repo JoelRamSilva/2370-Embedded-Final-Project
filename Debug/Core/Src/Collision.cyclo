@@ -1,7 +1,0 @@
-../Core/Src/Collision.c:36:6:SatchelHitsPlatform	5
-../Core/Src/Collision.c:52:6:SatchelHitsShield	1
-../Core/Src/Collision.c:62:6:RailgunHitsSatchel	1
-../Core/Src/Collision.c:68:6:HandleCollisions	25
-../Core/Src/Collision.c:176:6:Game_Lose	1
-../Core/Src/Collision.c:181:6:Game_Win	1
-../Core/Src/Collision.c:188:6:CheckPlatformWallCollision	5

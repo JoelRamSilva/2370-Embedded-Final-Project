@@ -1,5 +1,0 @@
-../Core/Src/Display_Task.c:42:6:StartDisplayTask	10
-../Core/Src/Display_Task.c:114:6:drawCastleAndCliff	2
-../Core/Src/Display_Task.c:127:6:drawCannonAndPlatform	8
-../Core/Src/Display_Task.c:184:6:movePlatformWithGyro	10
-../Core/Src/Display_Task.c:234:6:PrisonerEscapeAnimation	3

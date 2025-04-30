@@ -1,4 +1,0 @@
-../Core/Src/Main_Menu.c:15:6:DrawMenu	16	static
-../Core/Src/Main_Menu.c:29:6:HandleMenuInput	24	static
-../Core/Src/Main_Menu.c:57:6:DrawGameOver	8	static
-../Core/Src/Main_Menu.c:64:6:HandleGameOverInput	24	static

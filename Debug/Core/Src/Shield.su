@@ -1,6 +1,0 @@
-../Core/Src/Shield.c:21:6:StartShieldTask	16	static
-../Core/Src/Shield.c:30:6:ActivateShield	24	static
-../Core/Src/Shield.c:49:6:DeactivateShield	16	static
-../Core/Src/Shield.c:61:6:Shield_TakeHit	32	static
-../Core/Src/Shield.c:95:9:GetShieldHealth	4	static
-../Core/Src/Shield.c:99:6:Shield_Update	32	static
