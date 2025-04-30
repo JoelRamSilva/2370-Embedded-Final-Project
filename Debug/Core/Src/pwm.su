@@ -1,0 +1,4 @@
+../Core/Src/pwm.c:13:6:GPIO_Init	4	static
+../Core/Src/pwm.c:24:6:TIM2_Init	4	static
+../Core/Src/pwm.c:44:6:TIM2_IRQHandler	4	static
+../Core/Src/pwm.c:60:6:set_brightness	16	static

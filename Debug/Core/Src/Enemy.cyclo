@@ -1,0 +1,4 @@
+../Core/Src/Enemy.c:15:6:SatchelIsActive	3
+../Core/Src/Enemy.c:19:6:ResetSatchels	2
+../Core/Src/Enemy.c:25:6:SpawnSatchel	6
+../Core/Src/Enemy.c:58:6:UpdateSatchels	5

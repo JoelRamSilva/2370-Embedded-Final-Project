@@ -1,0 +1,4 @@
+../Core/Src/Enemy.c:15:6:SatchelIsActive	4	static
+../Core/Src/Enemy.c:19:6:ResetSatchels	16	static
+../Core/Src/Enemy.c:25:6:SpawnSatchel	32	static
+../Core/Src/Enemy.c:58:6:UpdateSatchels	16	static

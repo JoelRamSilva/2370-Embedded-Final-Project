@@ -1,0 +1,5 @@
+../Core/Src/Display_Task.c:42:6:StartDisplayTask	24	static
+../Core/Src/Display_Task.c:114:6:drawCastleAndCliff	24	static
+../Core/Src/Display_Task.c:127:6:drawCannonAndPlatform	56	static
+../Core/Src/Display_Task.c:184:6:movePlatformWithGyro	24	static
+../Core/Src/Display_Task.c:234:6:PrisonerEscapeAnimation	16	static
